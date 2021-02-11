@@ -49,6 +49,10 @@
     flex-wrap: wrap;
 }
 
+.contact-info h3 a {
+    color: #0000EE;
+}
+
 
 .css3 {
     text-decoration: underline;
